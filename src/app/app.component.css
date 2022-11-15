@@ -1,0 +1,35 @@
+
+#box {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#box2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#tela {
+    width: 100vw;
+    height: 100vh;
+    background-color: yellow;
+    background-size: cover;
+}
+
+#circle {
+    width: 140px;
+    height: 140px;
+    background-color: black;
+    border-radius: 70px;
+}
+
+button {
+    background-color: black;
+    color: yellow;
+    width: 140px;
+    height: 140px;
+    border-radius: 70px;
+
+}
